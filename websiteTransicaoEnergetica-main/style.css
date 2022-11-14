@@ -1,0 +1,33 @@
+body {
+    background-color: #50ff6226;
+}
+
+.hv-titulo {
+    color: black;
+    text-shadow: 1px 1px lawngreen;
+}
+
+.hv-desc {
+    color: lawngreen;
+    text-shadow: 0.5px 0.5px white;
+}
+
+.es-titulo {
+    color: #00ffdc;
+    text-shadow: 2px 2px blue;
+}
+
+.es-desc {
+    color: black;
+    text-shadow: 1px 1px #00ffdc;
+}
+
+.eo-titulo {
+    color: blue;
+    text-shadow: 1px 1px lightskyblue;
+}
+
+.eo-desc {
+    color: black;
+    text-shadow: 1px 1px lightskyblue;
+}
