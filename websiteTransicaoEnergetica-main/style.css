@@ -1,33 +1,50 @@
 body {
-    background-color: #50ff6226;
+    background-color:#bbffb9
+}
+
+.navbar-expand-lg{
+    background-color: #77c277;
 }
 
 .hv-titulo {
     color: black;
-    text-shadow: 1px 1px lawngreen;
+    text-shadow: 2px 2px #74b138;
+    font-style: italic;
 }
 
-.hv-desc {
-    color: lawngreen;
-    text-shadow: 0.5px 0.5px white;
+.hv-desc { 
+    color: white;
+    text-shadow: 1px 1px #74b138;
+    font-style: italic;
 }
 
 .es-titulo {
-    color: #00ffdc;
-    text-shadow: 2px 2px blue;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-style: italic;
 }
 
 .es-desc {
     color: black;
-    text-shadow: 1px 1px #00ffdc;
+    text-shadow: 1px 1px rgb(77, 156, 206);
+    font-style: italic;
 }
 
 .eo-titulo {
-    color: blue;
-    text-shadow: 1px 1px lightskyblue;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-style: italic;
 }
 
 .eo-desc {
-    color: black;
-    text-shadow: 1px 1px lightskyblue;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-style: italic;
 }
+
+.nav-link{
+    color: black;
+    font-style: italic;
+    font-size: 17px;
+}
+
