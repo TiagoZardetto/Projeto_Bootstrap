@@ -1,7 +1,6 @@
 # Aps-Unip
-Projeto feito para a APS da universidade paulista UNIP Campinas.
+Projeto feito com as linguagens HMTL e CSS, junto com o framework BootStrap.
 
-Desenvolvido para apresentar alternativas renováveis a descarbonização principalmente no campo Empresarial, como solução foram apresentados tópicos já conhecidos como a extração pela energia Solar ou Eólica,
-ou até alternativas pouco citadas como o caso do Hidrogenio Verde e a Energia Nuclear! Trazendo a história e a maneira como essas novas alternativas podem ser exploradas.
+Site com o intuito de apresentar fatos e dados sobre a Descarbonização e a Transição Energética no Brasil e ao redor do mundo.
+Apresentando novas tecnologias renováveis e novas maneiras de conscientizar o leitor.
 
-Feito com fundamentos de HTML e CSS, junto com o framework BootStrap!
